@@ -1,5 +1,5 @@
-# Atividade 2 De MySQL
+# Atividade 2 De MySQL 🐬
 
-## Código Estático inserido na Pasta 'Consultas'
+#### Código Estático inserido na Pasta 'Consultas'
 
-## Software Usado: Laragon & mySQL WorkBench.
+#### Software Usado: Laragon & mySQL WorkBench.
